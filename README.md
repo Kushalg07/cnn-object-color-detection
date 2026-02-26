@@ -49,12 +49,13 @@ https://www.kaggle.com/datasets/gopalbhattrai/pascal-voc-2012-dataset
 
 ## 🏗 Model Architecture
 
-<img width="1140" height="666" alt="Simple_OD_model drawio" src="https://github.com/user-attachments/assets/baf802ad-7ec6-4bf6-8051-ff260596ee99" />
+<img width="1521" height="771" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/90b814b1-003e-47c9-bbd6-d868481682e2" />
 
 ### 🔹 Backbone
 - ResNet-50 (Pretrained on ImageNet)
 
-### 🔹 Feature Extraction
+### 🔹 Feature Extraction![Uploading Object Detection model.drawio.svg…]()
+
 - Feature Pyramid Network (FPN)
 
 ### 🔹 Region Proposal
