@@ -1,4 +1,4 @@
-# 🎨 A.I. Vision in Color
+# 🎨 A.I. Vision in Color: Object Detection with Color Extraction
 ## Object Detection with Color Recognition and Explainable AI
 
 ---
